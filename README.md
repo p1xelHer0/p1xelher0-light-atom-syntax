@@ -1,6 +1,6 @@
 # p1xelHer0-light-syntax theme for [Atom](https://atom.io/)
 
-This is the light version of my own [Syntax -theme](https://github.com/p1xelHer0/p1xelher0-light-atom-syntax).
+This is the light version of my own [Syntax-theme](https://github.com/p1xelHer0/p1xelher0-light-atom-syntax).
 
 I like turquoise and brown 🤔. Orange makes for a nice contrast. I mostly do JavaScript.
 

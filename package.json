@@ -1,7 +1,7 @@
 {
   "name": "p1xelher0-light-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Light version of my syntax theme. I like turquoise and brown 🤔. Orange makes for a nice contrast. I mostly JavaScript. The contrast might not be the best at all places since I never use light themes.",
   "keywords": [
     "syntax",
